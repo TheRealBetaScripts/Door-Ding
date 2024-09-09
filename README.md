@@ -1,5 +1,5 @@
-🚪💥 **Beta Scripts - The Home of FiveM Scripts**  
-Discover and discuss innovative scripts like *Door Ding* and more. Join our community of server owners and developers today:  
+🚪💥 **Beta Scripts - The Home of Beta Scripts**  
+Discover and discuss innovative scripts like *Door Ding* and more. Join our community today:  
 👉 [Join Beta Scripts on Discord](https://discord.gg/D36ZXnKr2H)  
 
 # 🚪 Door Ding - Interactive Delivery System 📦
